@@ -1,5 +1,4 @@
-💻 I currently work in the technology industry.
-🌱 I’m always learning new technologies and improving my skills.
+💻 I currently work in the technology industry.<br>-🌱 I’m always learning new technologies and improving my skills. <br>
 
 
 # 💻 Tech Stack:
