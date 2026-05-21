@@ -1,4 +1,3 @@
-# 💫 About Me:
 💻 I currently work in the technology industry.
 🌱 I’m always learning new technologies and improving my skills.
 
