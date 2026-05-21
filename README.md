@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Technology<br>- 🌱 I’m currently learning about technology<br>
+💻 I currently work in the technology industry.
+🌱 I’m always learning new technologies and improving my skills.
 
 
 # 💻 Tech Stack:
